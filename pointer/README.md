@@ -1,9 +1,5 @@
 # Pointer-Sorting-Algorithms 
 
-## Student Information
-   Name:Natnael Tsedeke
-   ID:RMNS-7783-/23
-   Course:DSA
 
 ## Complexity Analysis for Bubble Sorting
 1. Time Complexity:
